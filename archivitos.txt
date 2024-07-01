@@ -4,3 +4,7 @@ Nombre: admin
 Contraseña: duoc1234
 
 , workon, cd , 
+
+pip install pillow
+
+pip install setuptools
